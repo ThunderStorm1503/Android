@@ -1,0 +1,435 @@
+:Monkey: seed=281 count=1000
+:AllowPackage: com.ijuyin.prints.news
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 31.666668%
+//   7: 5.0%
+//   8: 4.2222223%
+//   9: 2.1111112%
+//   10: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(253.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(259.04828,1308.6146)
+:Sending Touch (ACTION_DOWN): 0:(945.0,255.0)
+:Sending Touch (ACTION_UP): 0:(947.7607,244.24382)
+:Sending Touch (ACTION_DOWN): 0:(176.0,25.0)
+:Sending Touch (ACTION_UP): 0:(169.17203,0.0)
+:Sending Touch (ACTION_DOWN): 0:(927.0,289.0)
+:Sending Touch (ACTION_UP): 0:(942.44446,274.72244)
+:Sending Touch (ACTION_DOWN): 0:(327.0,744.0)
+:Sending Touch (ACTION_UP): 0:(318.55554,756.1635)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/.module.live.watch.WatchActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(670.0,689.0)
+:Sending Touch (ACTION_UP): 0:(590.2165,687.83374)
+:Sending Touch (ACTION_DOWN): 0:(668.0,425.0)
+:Sending Touch (ACTION_UP): 0:(673.604,427.23013)
+:Sending Touch (ACTION_DOWN): 0:(893.0,463.0)
+:Sending Touch (ACTION_UP): 0:(872.5206,452.4849)
+:Sending Touch (ACTION_DOWN): 0:(743.0,360.0)
+:Sending Touch (ACTION_UP): 0:(739.1967,361.90094)
+:Sending Touch (ACTION_DOWN): 0:(452.0,672.0)
+:Sending Touch (ACTION_UP): 0:(449.1657,675.1784)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1805.0)
+:Sending Touch (ACTION_UP): 0:(516.61237,1801.0737)
+:Sending Touch (ACTION_DOWN): 0:(886.0,631.0)
+:Sending Touch (ACTION_UP): 0:(872.2194,626.8991)
+:Sending Touch (ACTION_DOWN): 0:(287.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(308.51462,1296.9878)
+:Sending Touch (ACTION_DOWN): 0:(821.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(829.9985,1076.4768)
+:Sending Touch (ACTION_DOWN): 0:(752.0,431.0)
+:Sending Touch (ACTION_UP): 0:(784.38916,406.8343)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(383.10938,1054.267)
+:Sending Touch (ACTION_DOWN): 0:(136.0,659.0)
+:Sending Touch (ACTION_UP): 0:(137.40788,657.9164)
+:Sending Touch (ACTION_DOWN): 0:(900.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(973.3391,1031.9098)
+:Sending Touch (ACTION_DOWN): 0:(761.0,38.0)
+:Sending Touch (ACTION_UP): 0:(747.076,68.7725)
+    //[calendar_time:2017-04-24 15:38:26.836  system_uptime:3387473]
+    // Sending event #100
+    //[calendar_time:2017-04-24 15:38:27.439  system_uptime:3387974]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(887.0,325.0)
+:Sending Touch (ACTION_UP): 0:(894.9683,324.86798)
+:Sending Touch (ACTION_DOWN): 0:(696.0,686.0)
+:Sending Touch (ACTION_UP): 0:(695.86053,683.66736)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(544.8962,1667.0454)
+:Sending Touch (ACTION_DOWN): 0:(705.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(706.4661,1249.2745)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,131.0)
+:Sending Touch (ACTION_UP): 0:(881.1529,257.09317)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1256.0)
+:Sending Touch (ACTION_UP): 0:(669.95416,1321.6942)
+:Sending Touch (ACTION_DOWN): 0:(722.0,956.0)
+:Sending Touch (ACTION_UP): 0:(681.8649,1004.4886)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/.module.details.NewsDetailActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(200.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(194.95354,1080.7141)
+:Sending Touch (ACTION_DOWN): 0:(598.0,704.0)
+:Sending Touch (ACTION_UP): 0:(593.1847,677.10736)
+:Sending Touch (ACTION_DOWN): 0:(844.0,404.0)
+:Sending Touch (ACTION_UP): 0:(842.8125,451.25168)
+:Sending Touch (ACTION_DOWN): 0:(292.0,921.0)
+:Sending Touch (ACTION_UP): 0:(293.44705,915.206)
+:Sending Touch (ACTION_DOWN): 0:(483.0,559.0)
+:Sending Touch (ACTION_UP): 0:(484.4008,554.2789)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1908.0)
+:Sending Touch (ACTION_UP): 0:(166.08568,1899.903)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,480.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,544.5712)
+    //[calendar_time:2017-04-24 15:38:41.221  system_uptime:3401757]
+    // Sending event #200
+    //[calendar_time:2017-04-24 15:38:41.722  system_uptime:3402258]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(666.0,873.0)
+:Sending Touch (ACTION_UP): 0:(673.07007,881.11237)
+:Sending Touch (ACTION_DOWN): 0:(566.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(568.19073,1136.809)
+:Sending Touch (ACTION_DOWN): 0:(949.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(961.96985,1563.7933)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(988.18933,1581.2167)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+:Sending Touch (ACTION_DOWN): 0:(817.0,428.0)
+:Sending Touch (ACTION_UP): 0:(852.8648,442.94128)
+:Sending Touch (ACTION_DOWN): 0:(189.0,1885.0)
+:Sending Touch (ACTION_UP): 0:(183.33838,1887.5695)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/.module.user.login.LoginActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(369.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(374.1395,1037.1064)
+:Sending Touch (ACTION_DOWN): 0:(48.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(40.972027,1658.2122)
+:Sending Touch (ACTION_DOWN): 0:(962.0,328.0)
+:Sending Touch (ACTION_UP): 0:(982.8788,337.4857)
+:Sending Touch (ACTION_DOWN): 0:(893.0,227.0)
+:Sending Touch (ACTION_UP): 0:(897.3641,242.04161)
+:Sending Touch (ACTION_DOWN): 0:(288.0,269.0)
+:Sending Touch (ACTION_UP): 0:(273.68604,270.45282)
+:Sending Touch (ACTION_DOWN): 0:(411.0,452.0)
+:Sending Touch (ACTION_UP): 0:(509.53598,418.52835)
+:Sending Touch (ACTION_DOWN): 0:(994.0,598.0)
+:Sending Touch (ACTION_UP): 0:(994.61475,576.6144)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1127.0)
+:Sending Touch (ACTION_UP): 0:(555.79565,1143.0718)
+:Sending Touch (ACTION_DOWN): 0:(925.0,102.0)
+:Sending Touch (ACTION_UP): 0:(925.58154,94.58277)
+:Sending Touch (ACTION_DOWN): 0:(279.0,333.0)
+:Sending Touch (ACTION_UP): 0:(283.0274,331.4535)
+:Sending Touch (ACTION_DOWN): 0:(248.0,434.0)
+:Sending Touch (ACTION_UP): 0:(204.54591,399.92065)
+:Sending Touch (ACTION_DOWN): 0:(692.0,719.0)
+:Sending Touch (ACTION_UP): 0:(685.0148,782.9658)
+:Sending Touch (ACTION_DOWN): 0:(823.0,1632.0)
+    //[calendar_time:2017-04-24 15:38:56.889  system_uptime:3417425]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(769.03937,1687.3564)
+:Sending Touch (ACTION_DOWN): 0:(46.0,1814.0)
+:Sending Touch (ACTION_UP): 0:(20.906609,1777.3534)
+:Sending Touch (ACTION_DOWN): 0:(920.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(938.66034,1519.3441)
+:Sending Touch (ACTION_DOWN): 0:(3.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1762.1206)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+:Sending Touch (ACTION_DOWN): 0:(856.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(856.996,1780.5563)
+:Sending Touch (ACTION_DOWN): 0:(889.0,638.0)
+:Sending Touch (ACTION_UP): 0:(892.27045,635.9272)
+:Sending Touch (ACTION_DOWN): 0:(47.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(52.217922,1769.7958)
+:Sending Touch (ACTION_DOWN): 0:(245.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(244.97093,1592.2981)
+:Sending Touch (ACTION_DOWN): 0:(474.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(481.1137,1462.9752)
+:Sending Touch (ACTION_DOWN): 0:(465.0,1916.0)
+:Sending Touch (ACTION_UP): 0:(440.50916,1887.7294)
+:Sending Touch (ACTION_DOWN): 0:(185.0,797.0)
+:Sending Touch (ACTION_UP): 0:(198.64546,773.109)
+:Sending Touch (ACTION_DOWN): 0:(342.0,670.0)
+:Sending Touch (ACTION_UP): 0:(360.6213,654.71576)
+:Sending Touch (ACTION_DOWN): 0:(334.0,96.0)
+:Sending Touch (ACTION_UP): 0:(326.69006,93.732056)
+:Sending Touch (ACTION_DOWN): 0:(544.0,922.0)
+:Sending Touch (ACTION_UP): 0:(539.3011,921.2689)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,927.0)
+:Sending Touch (ACTION_UP): 0:(1043.216,921.855)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,619.0)
+:Sending Touch (ACTION_UP): 0:(1077.7251,681.6547)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1822.0)
+:Sending Touch (ACTION_UP): 0:(874.9981,1725.4999)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(80.0657,1585.3838)
+    //[calendar_time:2017-04-24 15:39:13.005  system_uptime:3433540]
+    // Sending event #400
+    //[calendar_time:2017-04-24 15:39:13.506  system_uptime:3434042]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(868.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(917.80634,1352.0309)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(943.797,1410.8033)
+:Sending Touch (ACTION_DOWN): 0:(417.0,562.0)
+:Sending Touch (ACTION_UP): 0:(425.15082,562.1412)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1560.0)
+:Sending Touch (ACTION_UP): 0:(562.04474,1560.797)
+:Sending Touch (ACTION_DOWN): 0:(351.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(380.91785,1422.186)
+:Sending Touch (ACTION_DOWN): 0:(280.0,728.0)
+:Sending Touch (ACTION_UP): 0:(305.55157,717.9433)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,737.0)
+:Sending Touch (ACTION_UP): 0:(1054.8512,741.324)
+:Sending Touch (ACTION_DOWN): 0:(399.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(397.1402,1696.0074)
+:Sending Touch (ACTION_DOWN): 0:(751.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(758.3832,1159.0979)
+:Sending Touch (ACTION_DOWN): 0:(414.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(416.5903,1014.68274)
+:Sending Touch (ACTION_DOWN): 0:(964.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(882.59064,1662.0875)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/com.tencent.connect.common.AssistActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { cmp=com.tencent.mobileqq/com.tencent.open.agent.AgentActivity } in package com.tencent.mobileqq
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(374.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(371.79193,1696.8269)
+:Sending Touch (ACTION_DOWN): 0:(986.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(974.8954,1043.5665)
+:Sending Touch (ACTION_DOWN): 0:(293.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(392.36823,1266.3557)
+:Sending Touch (ACTION_DOWN): 0:(831.0,363.0)
+:Sending Touch (ACTION_UP): 0:(787.1017,466.92902)
+:Sending Touch (ACTION_DOWN): 0:(981.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(980.63983,1771.6112)
+:Sending Touch (ACTION_DOWN): 0:(110.0,281.0)
+:Sending Touch (ACTION_UP): 0:(98.46974,276.05225)
+:Sending Touch (ACTION_DOWN): 0:(484.0,812.0)
+:Sending Touch (ACTION_UP): 0:(498.08398,818.6235)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1357.0)
+    //[calendar_time:2017-04-24 15:39:27.220  system_uptime:3447756]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(768.07294,1361.4087)
+:Sending Touch (ACTION_DOWN): 0:(699.0,997.0)
+:Sending Touch (ACTION_UP): 0:(695.0782,1011.2549)
+:Sending Touch (ACTION_DOWN): 0:(768.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(839.9353,975.8632)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1194.0)
+:Sending Touch (ACTION_UP): 0:(232.18915,1226.0679)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(206.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(188.42805,1204.8236)
+:Sending Touch (ACTION_DOWN): 0:(981.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(997.6856,1731.9323)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/com.tencent.connect.common.AssistActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { cmp=com.tencent.mobileqq/com.tencent.open.agent.AgentActivity } in package com.tencent.mobileqq
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(204.0,773.0)
+:Sending Touch (ACTION_UP): 0:(281.4148,728.49414)
+:Sending Touch (ACTION_DOWN): 0:(678.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(678.7273,1693.2156)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/com.tencent.connect.common.AssistActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { cmp=com.tencent.mobileqq/com.tencent.open.agent.AgentActivity } in package com.tencent.mobileqq
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(466.0,510.0)
+:Sending Touch (ACTION_UP): 0:(472.546,528.94714)
+:Sending Touch (ACTION_DOWN): 0:(367.0,1853.0)
+:Sending Touch (ACTION_UP): 0:(372.71326,1878.5251)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,764.0)
+:Sending Touch (ACTION_UP): 0:(1062.8275,807.3803)
+:Sending Touch (ACTION_DOWN): 0:(369.0,233.0)
+    //[calendar_time:2017-04-24 15:39:44.378  system_uptime:3464914]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(418.64075,145.67386)
+:Sending Touch (ACTION_DOWN): 0:(747.0,1702.0)
+:Sending Touch (ACTION_UP): 0:(732.1104,1710.0416)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/com.tencent.connect.common.AssistActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { cmp=com.tencent.mobileqq/com.tencent.open.agent.AgentActivity } in package com.tencent.mobileqq
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(558.59454,1307.2798)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(97.0,520.0)
+:Sending Touch (ACTION_UP): 0:(0.0,554.5617)
+:Sending Touch (ACTION_DOWN): 0:(525.0,69.0)
+:Sending Touch (ACTION_UP): 0:(521.69934,81.750885)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(649.0,967.0)
+:Sending Touch (ACTION_UP): 0:(649.24713,967.65)
+:Sending Touch (ACTION_DOWN): 0:(585.0,463.0)
+:Sending Touch (ACTION_UP): 0:(570.6907,462.85153)
+:Sending Touch (ACTION_DOWN): 0:(269.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(277.1583,1545.7887)
+:Sending Touch (ACTION_DOWN): 0:(94.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(76.66089,1168.2332)
+:Sending Touch (ACTION_DOWN): 0:(286.0,311.0)
+:Sending Touch (ACTION_UP): 0:(304.2548,310.99014)
+:Sending Touch (ACTION_DOWN): 0:(751.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(773.32404,1123.5022)
+:Sending Touch (ACTION_DOWN): 0:(852.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(867.3764,1488.2667)
+:Sending Touch (ACTION_DOWN): 0:(572.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(575.11835,1399.6454)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,182.0)
+:Sending Touch (ACTION_UP): 0:(1024.9563,178.16486)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(400.2081,1360.9187)
+:Sending Touch (ACTION_DOWN): 0:(998.0,425.0)
+:Sending Touch (ACTION_UP): 0:(1002.2372,403.377)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1851.0)
+:Sending Touch (ACTION_UP): 0:(644.2979,1800.1248)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1816.0)
+:Sending Touch (ACTION_UP): 0:(663.8827,1805.4227)
+:Sending Touch (ACTION_DOWN): 0:(618.0,1381.0)
+:Sending Touch (ACTION_UP): 0:(606.0288,1384.6638)
+:Sending Touch (ACTION_DOWN): 0:(314.0,303.0)
+:Sending Touch (ACTION_UP): 0:(308.03815,303.19415)
+:Sending Touch (ACTION_DOWN): 0:(755.0,972.0)
+:Sending Touch (ACTION_UP): 0:(857.3382,1009.39166)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(434.01587,1135.7224)
+:Sending Touch (ACTION_DOWN): 0:(618.0,1767.0)
+    //[calendar_time:2017-04-24 15:40:01.462  system_uptime:3481997]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(690.2483,1908.0417)
+:Sending Touch (ACTION_DOWN): 0:(285.0,913.0)
+:Sending Touch (ACTION_UP): 0:(274.3985,904.0112)
+:Sending Touch (ACTION_DOWN): 0:(544.0,419.0)
+:Sending Touch (ACTION_UP): 0:(530.9892,424.2961)
+:Sending Touch (ACTION_DOWN): 0:(297.0,245.0)
+:Sending Touch (ACTION_UP): 0:(184.28189,249.82626)
+:Sending Touch (ACTION_DOWN): 0:(530.0,522.0)
+:Sending Touch (ACTION_UP): 0:(516.9716,528.1481)
+:Sending Touch (ACTION_DOWN): 0:(9.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1147.0835)
+:Sending Touch (ACTION_DOWN): 0:(756.0,181.0)
+:Sending Touch (ACTION_UP): 0:(755.7265,181.49345)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,1875.0)
+:Sending Touch (ACTION_UP): 0:(1050.1847,1870.8882)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+:Sending Touch (ACTION_DOWN): 0:(601.0,1127.0)
+:Sending Touch (ACTION_UP): 0:(601.3243,1127.4614)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,162.0)
+:Sending Touch (ACTION_UP): 0:(1050.1309,167.24127)
+:Sending Touch (ACTION_DOWN): 0:(755.0,1806.0)
+:Sending Touch (ACTION_UP): 0:(745.0705,1806.0754)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,466.0)
+:Sending Touch (ACTION_UP): 0:(936.53186,406.5994)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,899.0)
+:Sending Touch (ACTION_UP): 0:(977.56824,899.5472)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(502.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(502.5988,1183.104)
+:Sending Touch (ACTION_DOWN): 0:(684.0,432.0)
+:Sending Touch (ACTION_UP): 0:(680.91504,424.95956)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(998.0,396.0)
+:Sending Touch (ACTION_UP): 0:(993.1704,383.85434)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1699.0)
+    //[calendar_time:2017-04-24 15:40:16.963  system_uptime:3497499]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(504.7299,1628.6796)
+:Sending Touch (ACTION_DOWN): 0:(946.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(948.4146,1508.9211)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1744.0)
+:Sending Touch (ACTION_UP): 0:(88.69045,1744.3124)
+:Sending Touch (ACTION_DOWN): 0:(454.0,918.0)
+:Sending Touch (ACTION_UP): 0:(568.3053,958.1941)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(561.0,264.0)
+:Sending Touch (ACTION_UP): 0:(561.44507,256.13138)
+:Sending Touch (ACTION_DOWN): 0:(301.0,107.0)
+:Sending Touch (ACTION_UP): 0:(308.18216,138.71466)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1504.0)
+:Sending Touch (ACTION_UP): 0:(164.29608,1521.1426)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(964.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(967.37317,1725.1422)
+:Sending Touch (ACTION_DOWN): 0:(779.0,666.0)
+:Sending Touch (ACTION_UP): 0:(760.03986,669.6351)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(96.0,193.0)
+:Sending Touch (ACTION_UP): 0:(160.50476,205.88847)
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(48.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(44.844727,1419.7631)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,816.0)
+:Sending Touch (ACTION_UP): 0:(1035.4033,823.28876)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(308.4986,1403.6461)
+:Sending Touch (ACTION_DOWN): 0:(425.0,420.0)
+:Sending Touch (ACTION_UP): 0:(308.022,513.5033)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1892.0)
+:Sending Touch (ACTION_UP): 0:(449.90332,1910.1748)
+    // Allowing start of Intent { cmp=com.ijuyin.prints.news/.module.user.login.LoginActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(514.0,672.0)
+:Sending Touch (ACTION_UP): 0:(511.56192,669.13654)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(551.80054,1022.1993)
+    //[calendar_time:2017-04-24 15:40:30.982  system_uptime:3511517]
+    // Sending event #900
+    //[calendar_time:2017-04-24 15:40:31.483  system_uptime:3512019]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(139.0,229.0)
+:Sending Touch (ACTION_UP): 0:(249.32909,244.4185)
+:Sending Touch (ACTION_DOWN): 0:(551.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(625.30896,1274.9789)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(692.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(724.09436,1576.6627)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(622.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(613.7429,1293.6488)
+:Sending Touch (ACTION_DOWN): 0:(233.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(235.84976,1514.7526)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(65.0,551.0)
+:Sending Touch (ACTION_UP): 0:(59.587517,548.7713)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(266.0,236.0)
+:Sending Touch (ACTION_UP): 0:(256.41577,239.35696)
+:Sending Touch (ACTION_DOWN): 0:(518.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(583.7076,1763.5363)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ijuyin.prints.news/.module.user.login.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ijuyin.prints.news/.module.user.login.WelcomeActivity } in package com.ijuyin.prints.news
+:Sending Touch (ACTION_DOWN): 0:(674.0,1870.0)
+:Sending Touch (ACTION_UP): 0:(686.66144,1880.02)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(364.40607,1143.2057)
+:Sending Touch (ACTION_DOWN): 0:(212.0,750.0)
+:Sending Touch (ACTION_UP): 0:(187.05002,683.3722)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(1030.0679,1121.3278)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,323.0)
+:Sending Touch (ACTION_UP): 0:(1003.50446,319.98578)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.yulong.android.launcher3/.Launcher } in package com.yulong.android.launcher3
+    // activityResuming(com.ijuyin.prints.news)
+    // activityResuming(com.ijuyin.prints.news)
+:Sending Touch (ACTION_DOWN): 0:(449.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(456.2738,1295.1415)
+:Sending Touch (ACTION_DOWN): 0:(3.0,1853.0)
+:Sending Touch (ACTION_UP): 0:(15.111259,1833.4133)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=16 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=159386ms (0ms mobile, 0ms wifi, 159386ms not connected)
+// Monkey finished
